@@ -1,5 +1,3 @@
-![image](https://media.discordapp.net/attachments/352733374235803648/1064647586914504825/burgershot.png)
-
 # DD-burgershot
 - Detailed Burger Shot Job [QBCORE]
 - New QBCore
