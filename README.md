@@ -22,7 +22,7 @@
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [DD-target](https://github.com/qbcore-framework/DD-target)
-- [Burger-Shot-Ymap](https://www.gta5-mods.com/maps/burgershot-remastered-gta-v-interior-mod-gtadps)
+- [Burger-Shot-Ymap](https://www.gta5-mods.com/maps/mlo-burgershot-2023-add-on-sp-fivem)
 - [Burger-Shot-Vehicle](https://www.gta5-mods.com/paintjobs/vapid-speedo-express-burgershot-livery)
 
 ## Installation
