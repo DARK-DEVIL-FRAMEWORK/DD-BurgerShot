@@ -17,10 +17,7 @@
 - Easy editable Config file
 - Easy editable language file
 - All created products can be used
-- NPCs that you can earn money by selling menus
 - You cannot start work without washing your hands
-- Script using full DD-target and DrawText3D(only 1)/(soon ui)
-- To pack menus (Small Size Menu - Big Size Menu - Coffee Menu)
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
